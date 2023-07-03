@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.backimg {
+  background-image: 'E:/coder/ReactJs/ReactTest/prueba/imagenes/diamond.gif';
+  background-color: #61dafb;
+  width: 100%;
+  height: 500 px;
+}
