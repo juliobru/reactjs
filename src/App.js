@@ -6,7 +6,7 @@ import Bienvenida from './componentes/Bienvenida';
 
 import NavBar from './componentes/NavBar';
 
-import homeimage from '../src/imagenes/woman-2126955_1280.png'
+import homeimage from '../src/componentes/home/woman-2126955_1280.png'
 
 import ItemListContainer from './componentes/ItemListContainer';
 import ItemDetailContainer from './componentes/ItemDetailCointeiner';
@@ -23,7 +23,7 @@ function App() {
           <NavBar/>
       <Routes>   
       <Route path = {'/'} element = { <Bienvenida imagen={homeimage} greeting={"Bienvenido a nuestra tienda"}/>}/>
-      <Route path = {'/ItemListContainer'} element = {<ItemListContainer/>}/>
+      <Route path = {'/Productos'} element = {<ItemListContainer/>}/>
       <Route path={"/category/:id"} element={<ItemListContainer />} />
       <Route path={"/item/:id"} element={<ItemDetailContainer/>} />
       <Route path = {'*'} element = {<Error404/>}/>

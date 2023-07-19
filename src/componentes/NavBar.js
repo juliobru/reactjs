@@ -10,12 +10,12 @@ function NavBar() {
       
       <Navbar bg="light" data-bs-theme="light">
         <Container>
-          <Navbar.Brand href="#home">Mi Joyería</Navbar.Brand>
+          <Navbar.Brand>Mi Joyería</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link as={Link} to={'./'}>Inicio</Nav.Link>
-            <Nav.Link as={Link} to={'/ItemListContainer'}>Productos</Nav.Link>
+            <Nav.Link as={Link} to={'/Productos'}>Productos</Nav.Link>
             <Nav.Link as={Link} to={'/category/DeModa'}>De Moda</Nav.Link>
-            <Nav.Link as={Link} to={'/category/Sencillo'}>Sensillo</Nav.Link>
+            <Nav.Link as={Link} to={'/category/Sencillo'}>Sencillo</Nav.Link>
             <Nav.Link as={Link} to={'/category/Clasico'}>Clásico</Nav.Link>
             
           </Nav>  

@@ -1,14 +1,14 @@
 
 
 [
-    {"id":1, "nombre":"Collar Corona Rey", "descripcion":"Conjunto De Collar De Corona De Su Rey Y Su Reina De Acero Inoxidable", "imagen":"../../imagenes/CollarCorona.png", "precio":16, "stock":10, "categoria":"De Moda"},
-    {"id":2, "nombre":"Collar Geométrico", "descripcion":"Collar Geométrico Enchapado De Acero Inoxidable", "imagen":"../../imagenes/GeometricoEnchapado.png", "precio":24, "stock":10, "categoria":"De Moda"},
-    {"id":3, "nombre":"Collar Cadena Hueca", "descripcion":"Collar De Cadena Hueca Multicapa De Acero Inoxidable Punk", "imagen":"../../imagenes/CadenaHueca.png", "precio":32, "stock":10, "categoria":"De Moda"},
-    {"id":4, "nombre":"Collar Cadena Gruesa", "descripcion":"Collar De Acero Inoxidable De Cadena Gruesa Nihaojewelry", "imagen":"../../imagenes/CadenaGruesa.png", "precio":49, "stock":10, "categoria":"Sencillo"},
-    {"id":5, "nombre":"Collar Pareja", "descripcion":"Pareja Collar Largo De Acero Inoxidable", "imagen":"../../imagenes/CollarLargo.png", "precio":12, "stock":10, "categoria":"Sencillo"},
-    {"id":6, "nombre":"Collar Estrella", "descripcion":"Estilo Simple Estrella Acero Inoxidable Enchapado Cadena Gargantilla", "imagen":"../../imagenes/CollarEstrella.png", "precio":18, "stock":10, "categoria":"Sencillo"},
-    {"id":7, "nombre":"Colgante de Luna", "descripcion":"Joyería Simple Colgante De Luna Collar De Acero Inoxidable.", "imagen":"../../imagenes/CollarLuna.png", "precio":20, "stock":10, "categoria":"Clasico"},
-    {"id":8, "nombre":"Colgante abstracto", "descripcion":"Collar de Acero Inoxidable Enchapado Abstracto Elegante ", "imagen":"../../imagenes/CollarAbstracto.png", "precio":23, "stock":10, "categoria":"Clasico"},
-    {"id":9, "nombre":"Collar Electrocardiograma", "descripcion":"Collar de Acero Inoxidable Electrocardiograma,natural o dorado", "imagen":"../../imagenes/CollarElectrocardiograma.png", "precio":12, "stock":10, "categoria":"Clasico"}
+    {"id":1, "nombre":"Collar Corona Rey", "descripcion":"Conjunto De Collar De Corona De Su Rey Y Su Reina De Acero Inoxidable", "imagen":"/imagenes/CollarCorona.png", "precio":16, "stock":10, "categoria":"DeModa"},
+    {"id":2, "nombre":"Collar Geométrico", "descripcion":"Collar Geométrico Enchapado De Acero Inoxidable", "imagen":"/imagenes/GeometricoEnchapado.png", "precio":24, "stock":10, "categoria":"DeModa"},
+    {"id":3, "nombre":"Collar Cadena Hueca", "descripcion":"Collar De Cadena Hueca Multicapa De Acero Inoxidable Punk", "imagen":"/imagenes/CadenaHueca.png", "precio":32, "stock":10, "categoria":"DeModa"},
+    {"id":4, "nombre":"Collar Cadena Gruesa", "descripcion":"Collar De Acero Inoxidable De Cadena Gruesa Nihaojewelry", "imagen":"/imagenes/CadenaGruesa.png", "precio":49, "stock":10, "categoria":"Sencillo"},
+    {"id":5, "nombre":"Collar Pareja", "descripcion":"Pareja Collar Largo De Acero Inoxidable", "imagen":"/imagenes/CollarPareja.png", "precio":12, "stock":10, "categoria":"Sencillo"},
+    {"id":6, "nombre":"Collar Estrella", "descripcion":"Estilo Simple Estrella Acero Inoxidable Enchapado Cadena Gargantilla", "imagen":"/imagenes/CollarEstrella.png", "precio":18, "stock":10, "categoria":"Sencillo"},
+    {"id":7, "nombre":"Colgante de Luna", "descripcion":"Joyería Simple Colgante De Luna Collar De Acero Inoxidable.", "imagen":"/imagenes/CollarLuna.png", "precio":20, "stock":10, "categoria":"Clasico"},
+    {"id":8, "nombre":"Colgante abstracto", "descripcion":"Collar de Acero Inoxidable Enchapado Abstracto Elegante ", "imagen":"/imagenes/CollarAbstracto.png", "precio":23, "stock":10, "categoria":"Clasico"},
+    {"id":9, "nombre":"Collar Electrocardiograma", "descripcion":"Collar de Acero Inoxidable Electrocardiograma,natural o dorado", "imagen":"/imagenes/CollarElectrocardiograma.png", "precio":12, "stock":10, "categoria":"Clasico"}
     
 ]

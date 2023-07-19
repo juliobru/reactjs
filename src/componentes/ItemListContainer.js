@@ -1,8 +1,8 @@
-import React from 'react'
+
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import arrayProductos from '../componentes/Json/arrayProductos.json';
-import ItemList from '../componentes/ItemList';
+import ItemList from './ItemList';
 
 
 const ItemListContainer = () => {
@@ -21,7 +21,7 @@ const ItemListContainer = () => {
      }, [id])
 
   return (
-    <div className='container'>
+      <div className='container'>
       <div className='row'>
        <ItemList item={item}/>
       </div>
