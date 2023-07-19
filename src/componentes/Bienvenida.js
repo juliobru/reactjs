@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ItemListContainer = ({greeting, imagen}) => {
+const Bienvenida = ({greeting, imagen}) => {
   return (
     <div claseName= "container">
         <img src= {imagen} className="img-fluid" alt="imagen de fondo"></img>
@@ -10,4 +10,4 @@ const ItemListContainer = ({greeting, imagen}) => {
   )
 }
 
-export default ItemListContainer
+export default Bienvenida
